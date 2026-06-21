@@ -39,9 +39,13 @@ nav {
 .nav-link a {
     text-decoration: none;
     color: #f8fafc;
+    transition: 0.3s;
 }
 .nav-link a:hover {
-    color: #f97316;
+    background-color: #f97316;
+    padding: 12px 15px;
+    border-radius: 10px;
+    transform: translateY(-5px);
 }
 nav li {
     list-style: none;
