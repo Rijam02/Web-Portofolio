@@ -231,11 +231,11 @@ footer {
 
     .profile {
         min-width: 100%;
-        scroll-margin-top: 270px;
+        scroll-margin-top: 150px;
     }
 
     article {
-        scroll-margin-top: 220px;
+        scroll-margin-top: 150px;
     }
 
 }
