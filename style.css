@@ -235,11 +235,11 @@ footer {
 
     .profile {
         min-width: 100%;
-        scroll-margin-top: 150px;
+        scroll-margin-top: 130px;
     }
 
     article {
-        scroll-margin-top: 150px;
+        scroll-margin-top: 130px;
     }
 
 }
