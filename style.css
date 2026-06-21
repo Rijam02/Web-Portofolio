@@ -208,6 +208,13 @@ footer {
         align-items: center;
         gap: 12px;
         flex-wrap: wrap;
+        transition: 0.3s;
+    }
+    .nav-link:active {
+        background-color: #f97316;
+        padding: 8px 16px;
+        border-radius: 8px;
+        transform: scale(0.95);
     }
 
     .hero {
